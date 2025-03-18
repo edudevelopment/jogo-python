@@ -1,7 +1,19 @@
 
 #C
-COLOR_MAIN_TEXT_MENU = (255,128,0)
-COLOR_OPTIONS_MENU = (255,255,255)
+COLOR_ORANGE = (255,128,0)
+COLOR_WHITE = (255,255,255)
+COLOR_PURPLE = (128,0,128)
+#E
+ENTITY_SPEED = {
+    'Level1Bg0': 0,
+    'Level1Bg1': 1,
+    'Level1Bg2': 2,
+    'Level1Bg3': 3,
+    'Level1Bg4': 4,
+    'Level1Bg5': 5,
+    'Level1Bg6': 6,
+}
+
 #M
 MENU_MUSIC = './asset/Menu.mp3'
 MENU_OPTION = ('NEW GAME 1P',

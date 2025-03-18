@@ -1,0 +1,20 @@
+Jogo de zumbis medieval
+
+
+2d
+
+
+de um lado para outro
+pode pular
+
+
+vem zumbis e morcegos na sua direção
+leva dano se encostarem
+
+
+voce pode bater com a espada para
+cima
+esquerda
+direita
+
+passa de fase quando mata 10 bixos 
